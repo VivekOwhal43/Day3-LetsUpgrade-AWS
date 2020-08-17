@@ -1,6 +1,7 @@
 # Day3-LetsUpgrade-AWS
 Day 3 Assignment
-#I am using Linux Environment (OS) for Implementing Assignments
+
+# I am using Linux Environment (OS) for Implementing Assignments
 As the platform is different there my be some difference between the User Interface.
 
 # Project 1: Deploying a web server in Windows instance
